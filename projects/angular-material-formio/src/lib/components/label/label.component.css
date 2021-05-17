@@ -1,0 +1,11 @@
+:host {
+  pointer-events: all;
+  display: block;
+}
+
+.required-star {
+  margin-left: 0.2rem;
+  color: red;
+  font-size: 0.8rem;
+  vertical-align: top;
+}
